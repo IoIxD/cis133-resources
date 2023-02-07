@@ -1,0 +1,3 @@
+> Find a good HTML resource and a good CSS resource.
+
+I can name one resource for both! https://caniuse.com will tell you whether an HTML tag, CSS property, or general feature such as AVIF images, is compatible with modern browsers, and how far back the compatiblity goes. This is useful for me for gauging whether a technology is too new for me to feel good using in production. It's also important for me because there have been times when I've wanted a web project to be able to work on older browsers; specifically Firefox 2.0, of which there is a fork that supports modern SSL and lets you access more websites when screwing around with Windows 98.
